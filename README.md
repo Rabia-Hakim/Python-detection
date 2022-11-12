@@ -1,11 +1,15 @@
-Haar cascades sources
+#Haar cascades sources
+
 https://github.com/opencv/opencv/tree/master/data/haarcascades_cuda
 
-#Install Visual studio
+#Install Visual studio:
+
 https://visualstudio.microsoft.com/
 
-#install python
+#Install python:
+
 https://www.python.org/downloads/
 
-#Install OpenCV
+#Install OpenCV:
+
 pip install opencv-python
