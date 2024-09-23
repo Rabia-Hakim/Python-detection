@@ -18,3 +18,4 @@ for (x, y, w, h) in faces:
 cv2.imwrite('mypicture.png', mypicture)
 cv2.imshow("myphoto", mypicture)
 cv2.waitKey(0)
+tst
